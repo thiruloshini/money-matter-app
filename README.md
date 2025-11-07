@@ -1,2 +1,16 @@
-# money-matter-app
-Money Matter is a smart finance app to track income, expenses, and savings. It helps users plan budgets, view reports, and manage money easily in one place
+# 💰 Money Matter App
+
+Money Matter is a simple personal finance tracker that helps you record your income and expenses, plan budgets, and view spending reports easily.
+
+## Features
+- Track income and expenses
+- Smart budget planning
+- Monthly report visualization
+- Simple and clean UI
+
+## Tech Used
+HTML | CSS | JavaScript
+
+## Author
+Developed by Thiruloshini A
+
